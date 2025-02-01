@@ -1,2 +1,50 @@
+# Quarto output directories
+/_site/
 /.quarto/
+*_files/
+/_freeze/
+
+# Quarto rendered files
+*.html
+*.pdf
+*.tex
+*.docx
+*.odt
+*.epub
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.env
+.venv
+env/
+venv/
+ENV/
+.jupyter/
+
+# Editor and OS specific files
+.vscode/
+.idea/
+*.swp
+*.swo
 .DS_Store
+Thumbs.db
+
+# Project specific files that might contain sensitive information
+config.yml
+secrets.json
+.env*
+
+# Package management
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
