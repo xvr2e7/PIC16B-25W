@@ -1,0 +1,51 @@
+.navbar {
+  background-color: #2c3e50 !important;
+}
+
+.navbar-title,
+.nav-link {
+  color: #ecf0f1 !important;
+}
+
+.quarto-title-banner {
+  background-color: #34495e !important;
+}
+
+.quarto-title-banner h1 {
+  color: #ecf0f1;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+.quarto-post {
+  border: none;
+  margin-bottom: 2.5rem;
+}
+
+.quarto-category {
+  background-color: #f0f2f5;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+.listing-category {
+  background-color: #f0f2f5;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+.navbar-title, .menu-text {
+  font-weight: 1000;
+}
+
+.listing-title {
+  color: #2c3e50;
+}
+
+.nav-link {
+  font-weight: 400;
+}
