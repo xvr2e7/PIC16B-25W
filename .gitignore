@@ -36,6 +36,7 @@ Thumbs.db
 config.yml
 secrets.json
 .env*
+datafiles/
 
 # Package management
 node_modules/
