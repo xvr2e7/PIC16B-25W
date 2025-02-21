@@ -23,6 +23,7 @@ env/
 venv/
 ENV/
 .jupyter/
+.virtual_documents/
 
 # Editor and OS specific files
 .vscode/
