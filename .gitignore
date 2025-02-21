@@ -31,12 +31,14 @@ ENV/
 *.swo
 .DS_Store
 Thumbs.db
+climate.db
 
 # Project specific files that might contain sensitive information
 config.yml
 secrets.json
 .env*
 datafiles/
+anaconda_projects/
 
 # Package management
 node_modules/
